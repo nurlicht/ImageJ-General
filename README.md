@@ -4,9 +4,5 @@ Programs for automated analysis of (cell) images using Java and the <a href="htt
 </p>
 
 <p align="center">
-<img src="/microtubuleSynth.gif"></img>
-<br/><br/><br/><br/>
-<img src="/interactiveGaussianSynth.gif"></img>
-<br/><br/><br/><br/>
 <img src="/spotPairTracking.gif"></img>
 </p>
