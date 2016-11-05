@@ -9,6 +9,4 @@ Programs for automated analysis of (cell) images using Java and the <a href="htt
 <img src="/interactiveGaussianSynth.gif"></img>
 <br/><br/><br/><br/>
 <img src="/spotPairTracking.gif"></img>
-<br/><br/><br/><br/>
-<img src="/isoSurface.gif"></img>
 </p>
